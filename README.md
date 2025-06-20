@@ -1,4 +1,4 @@
-# NEURON mod files associated with the paper
+## NEURON mod files associated with the paper
 
 Gurkiewicz M, Korngreen A, Waxman SG, Lampert A (2011) Kinetic  
 Modeling of Nav1.7 Provides Insight Into Erythromelalgia-associated  
